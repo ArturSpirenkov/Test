@@ -1,1 +1,2 @@
-console.log(lololo)
+console.log(lololo);
+alert('hello')
